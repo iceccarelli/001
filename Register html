@@ -12,7 +12,7 @@
         <br>
         Gender: <input name="gender" type="radio" value="M">M <input name="gender" type="radio" value="F">F
         <br>
-        <select name="state">
+        <select name="Canton">
         <option value="Zug">ZG</option>
         <option value="Geneva">GN</option>
         <option value="Lugano">LG</option>

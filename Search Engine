@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<html> <head>
+		<title>Google</title> </head>
+		<body>
+			<div style="text-align: center">
+			<h1>Google</h1>
+				<form action="http://www.google.com/search" method="get">
+					<input name="q" style="width: 300px" type="text"> 
+						<br>
+					<input type="submit" value="Google Search"> 
+					<input type="submit" value="I'm Feeling very Lucky">
+				</form> 
+			</div>
+		</body> 
+	</html>
